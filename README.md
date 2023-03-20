@@ -1,4 +1,4 @@
-# study_front
+# Study_front-end
 Front-end research starting from the basics
 
 
