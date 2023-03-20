@@ -7,7 +7,7 @@ Front-end research starting from the basics
 - I used to work at trineedle
 - I'm currently studying (HTML, CSS, JavaScript)
 
-### __Side project__
+# __Side project__
 #### [Jerk Chicken](https://github.com/Jerk-Chickens)
 Belongs to a side project team with nice people.
 
